@@ -12,7 +12,6 @@
 
 using namespace std;
 
-//Lop khach hang
 class client : public account{
     private:
 		string name;

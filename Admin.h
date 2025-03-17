@@ -7,7 +7,6 @@
 #include "Motorbike.h"
 #include "ClientFunction.h"
 
-//Lop Admin
 class admin : public account{
 	public:
 		void client_manage();

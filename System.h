@@ -9,7 +9,6 @@
 #include "Client.h"
 #include "Admin.h"
 
-//Lop he thong
 class Rental_system : public admin, public client_function{
 	public:
 		bool login(string &);

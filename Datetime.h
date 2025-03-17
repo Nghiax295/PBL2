@@ -7,7 +7,6 @@
 
 using namespace std;
 
-//Lop thoi gian
 class datetime{
 	private:
 		int day, month, year;

@@ -10,10 +10,9 @@
 
 using namespace std;
 
-//Lop xe may
 class motorbike{
 	private:
-		string id_motor; //PK
+		string id_motor;
 		string brand;
 		string type;
 		string plate_number;

@@ -10,7 +10,6 @@
 
 using namespace std;
 
-//Lop hop dong
 class contract{
 	private:
 		string id_contract;
